@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://aurelienappriou.org/post/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/post/oscillatory_classification/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/oscillatory_classification/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/publications/</loc>
+    <loc>https://aappriou.github.io/appriou-site/publications/</loc>
     <lastmod>2020-06-11T16:48:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/</loc>
+    <loc>https://aappriou.github.io/appriou-site/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/post/curiosity/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/curiosity/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/post/erp_classification/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/erp_classification/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/post/biopyc/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/biopyc/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/post/mi_workload/</loc>
+    <loc>https://aappriou.github.io/appriou-site/post/mi_workload/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/designs/</loc>
+    <loc>https://aappriou.github.io/appriou-site/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/phd_thesis/</loc>
+    <loc>https://aappriou.github.io/appriou-site/phd_thesis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://aurelienappriou.org/techs/</loc>
+    <loc>https://aappriou.github.io/appriou-site/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

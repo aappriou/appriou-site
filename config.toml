@@ -1,4 +1,4 @@
-baseURL = "http://aurelienappriou.org/"
+baseURL = "https://aappriou.github.io/appriou-site/"
 languageCode = "en-us"
 publishDir = "docs"
 title = "Aurélien Appriou"

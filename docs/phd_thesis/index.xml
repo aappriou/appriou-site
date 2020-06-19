@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhD Thesis on Aurélien Appriou</title>
-    <link>http://aurelienappriou.org/phd_thesis/</link>
+    <link>https://aappriou.github.io/appriou-site/phd_thesis/</link>
     <description>Recent content in PhD Thesis on Aurélien Appriou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aurélien Appriou</copyright>
     
-	<atom:link href="http://aurelienappriou.org/phd_thesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aappriou.github.io/appriou-site/phd_thesis/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
