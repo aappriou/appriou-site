@@ -1,5 +1,6 @@
 baseURL = "http://aurelienappriou.org/"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Aurélien Appriou"
 theme = "personal-web"
 copyright="© Aurélien Appriou"
